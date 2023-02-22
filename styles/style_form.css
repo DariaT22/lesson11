@@ -1,0 +1,30 @@
+body {
+    background-image: url(/pic.jpg);
+    background-attachment: fixed ;
+    padding-left: 50px;
+    background-repeat: no-repeat;
+}
+div {
+    width: 400px;
+    height: max-content;
+    background-color:rgb(229, 147, 160, 0.5); 
+}
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    padding-left:100px;
+    padding-top: 20px;
+}
+
+h2 {
+    font-size: 20px;
+}
+fieldset {
+    width: 370px;
+}
+.fieldset2 {
+    background-color: rgb(179, 175, 175 );
+}
+p {
+    font-size: 18px;
+}

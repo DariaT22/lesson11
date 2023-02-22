@@ -1,0 +1,40 @@
+.table td {
+    border:1px solid black;
+}
+.table{
+    border:1px solid black;
+    border-collapse: collapse;
+    font-size: 16px;
+}
+.table caption {
+    font-size: 16px;
+    font-style:italic;
+    color: rgb(4, 4, 46);
+    text-align: left;
+    padding-bottom: 5px;
+} 
+.result {
+   text-align: right;
+   padding-right: 10px;
+   font-weight:bold ;
+}
+.table__bottom{
+    background-color: rgb(190, 217, 208);
+}
+thead,tbody {
+    text-align: center;
+}
+.table__head {
+    background-color: rgb(207, 201, 212);
+}
+.col1 {
+    text-align: left;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+.finalMark {
+    text-align: center;
+}
+.oddCell:hover { 
+    background-color: rgb(244, 193, 176);
+}
